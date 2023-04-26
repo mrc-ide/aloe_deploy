@@ -1,0 +1,11 @@
+name: sdn_app
+title:
+username:
+account: winskill
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8957766
+bundleId: 7138209
+url: https://winskill.shinyapps.io/sdn_app/
+when: 1682512398.50759
+lastSyncTime: 1682512398.5076

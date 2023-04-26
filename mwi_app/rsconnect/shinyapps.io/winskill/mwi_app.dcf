@@ -1,0 +1,11 @@
+name: mwi_app
+title:
+username:
+account: winskill
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8957713
+bundleId: 7138198
+url: https://winskill.shinyapps.io/mwi_app/
+when: 1682512138.80637
+lastSyncTime: 1682512138.80638
